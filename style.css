@@ -1,0 +1,38 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-image:url("images/images.jpeg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  margin-top:20ch;
+  
+}
+span{
+  font-family: kavoon,Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  text-decoration: underline;
+  
+}
+
+pre {
+  font-family:Tangerine,Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+  background-image: linear-gradient(#440251,#B886F7);
+  color:#F3CBFB;
+  
+}
+h1{
+   text-align:center ;
+   font-size: 3.5rem;
+}
+.universe{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:antiquewhite;
+}
